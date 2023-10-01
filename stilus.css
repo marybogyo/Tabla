@@ -1,0 +1,22 @@
+table, tbody, th, td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 25%;
+    text-align: left;
+    padding: 5px;
+}
+article, footer, header{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.vn,.kn{
+font-size: 18px;
+color: rgb(7, 7, 63);
+}
+
+footer, header{
+    font-size: 18px;
+    font-weight: bold;
+}
