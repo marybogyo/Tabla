@@ -16,7 +16,15 @@ font-size: 18px;
 color: rgb(7, 7, 63);
 }
 
-footer, header{
+header{
     font-size: 18px;
     font-weight: bold;
 }
+
+footer{
+    font-size: 15px;
+    padding-top: 50px;
+    font-weight: bold;
+}
+
+
